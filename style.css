@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #a24eba;
+}
+
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{ 
+    display: flex;
+    justify-content: center;
+    margin: 10rem 20rem auto;
+    align-items: center;
+}
+
+select{
+    background-color: #39083f;
+    height: medium;
+    color: rgb(205, 120, 205);
+    font-size: medium;
+    border-radius: 10px;
+}
+
+h2{
+    color: #19021e;
+    font-size:medium;
+}
+
